@@ -13,6 +13,8 @@ mob-spawners, and constructs spiraling off into the distance; Chunk is intended 
 painstakingly manage space *as well as* resources. For instance, in a Chunk play-through,
 **sunlight** is effectively reduced to a precious resource.
 
+![](https://f.cloud.github.com/assets/200/907204/13d68b04-fd18-11e2-91c9-80795d6bb7aa.png)
+
    [Minecraft]: <http://minecraft.net>
    [skyblock]: <http://www.minecraftforum.net/topic/600254-surv-skyblock>
    [skygrid]: <http://www.planetminecraft.com/project/skygrid-survival-map/>
