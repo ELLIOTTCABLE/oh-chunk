@@ -13,6 +13,15 @@ mob-spawners, and constructs spiraling off into the distance; Chunk is intended 
 painstakingly manage space *as well as* resources. For instance, in a Chunk play-through,
 **sunlight** is effectively reduced to a precious resource.
 
+Contributing
+------------
+More on these later, perhaps, but if you're planning to push up to this repository:
+
+ - `level.dat` is ignored, intentionally; so any changes you make shouldn't be picked up ... but
+   nonetheless, do your best to make sure your “player status” isn't carried over into your changes
+   in any way, if you find yourself needing to launch the game and use Creative mode instead of
+   MCEdit or similar.
+
    [Minecraft]: <http://minecraft.net>
    [skyblock]: <http://www.minecraftforum.net/topic/600254-surv-skyblock>
    [skygrid]: <http://www.planetminecraft.com/project/skygrid-survival-map/>
