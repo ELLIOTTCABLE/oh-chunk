@@ -5,13 +5,13 @@ you've played Noobcrew's [Skyblock Survival][skyblock], or SethBling's [SkyGrid]
 familiar with the concept. However, there's one crucial difference: Skyblock and friends game
 against the renewability system by restricting (extremely) the availability of *resources*, but
 provide you infinite space to build in once you've understood and conquered the
-resource-restrictions. By way of contrast, “Oh, chunk.” restricts *both resources and spaces*,
+resource-restrictions. By way of contrast, “Oh, chunk.” restricts *both resources and space*,
 requiring you to function, survive, and advance within an extremely small square of blocks.
 
 Whereas Skyblock and SkyGrid plays tend towards large, sprawling home-bases with all sorts of farms,
 mob-spawners, and constructs spiraling off into the distance; Chunk is intended to require you to
-painstakingly manage space *as well as* resources. For instance, in a Chunk play-through,
-**sunlight** is effectively reduced to a precious resource.
+painstakingly manage space as well as resources. For instance, in a Chunk play-through, sunlight
+itself is effectively reduced to a precious resource!
 
 ![](https://f.cloud.github.com/assets/200/907204/13d68b04-fd18-11e2-91c9-80795d6bb7aa.png)
 
@@ -21,13 +21,15 @@ painstakingly manage space *as well as* resources. For instance, in a Chunk play
 
 Installing
 ----------
-Each release of this world that I tag will be posted here:
+### [Download the latest release →](http://www.curse.com/worlds/minecraft/oh-chunk/download)
+Unzip it into your [Minecraft `saves/` folder][saves]. That's it.
 
-### [Releases →](https://github.com/ELLIOTTCABLE/oh-chunk/releases)
-
-Download the latest `.zip`, and unzip it into your [Minecraft `saves/` folder][saves].
+I also push releases here to GitHub first, although I prefer if you download them from Curse (it
+helps my download stats, which would be nice for getting this world some exposure. ;) You can view
+all of the releases and their release notes [here][releases].
 
    [saves]: <http://gaming.stackexchange.com/a/14703>
+   [releases]: <https://github.com/ELLIOTTCABLE/oh-chunk/releases>
 
 Playing
 -------
@@ -86,7 +88,7 @@ has been time-consuming, and burns me out quickly. Unfortunately, I fucking hate
 get one of you fine chaps to do it for me? ;)
 
 As for the name ... I started playing Minecraft with my girlfriend. The night we began playing, we
-were quickly overridden by zombies, lost the (very little, in retrospect) that we'd managed to do,
+were quickly overridden by zombies, lost all (very little, in retrospect) that we'd managed to do,
 and got very fed-up very quickly. For weeks thereafter, we both exclusively played in Peaceful.
 Finally, when I decided to balls-up and try to take on Easy, and mobs, again, I titled the world
 we'd be playing in “Oh, fuck.” This map is intended to evoke a similar feeling. (That, and the
@@ -99,15 +101,7 @@ Contributing
 If you come across any bugs or perceive any imbalances in the world, they can be reported on the
 GitHub issue-tracker. The same goes for any ‘feature’ requests:
 
-### [Issues →](https://github.com/ELLIOTTCABLE/oh-chunk/issues)
+### [Issue tracker →](https://github.com/ELLIOTTCABLE/oh-chunk/issues)
 
-**Note:** These are likely to include spoilers! If you want a ‘pure’ Chunking experience, stay away
-from the issue tracker until you've escaped, yourself!
-
-More on these later, perhaps, but if you're planning to push up to this repository:
-
- - `level.dat` is ignored, intentionally; so any changes you make shouldn't be picked up ... but
-   nonetheless, do your best to make sure your “player status” isn't carried over into your changes
-   in any way, if you find yourself needing to launch the game and use Creative mode instead of
-   MCEdit or similar.
-
+**Important:** The issues are likely to include spoilers! If you want a ‘pure’ Chunking experience,
+stay away from the issue tracker. At least, until *you've* escaped. ;)
