@@ -1,4 +1,6 @@
 /data/villages.dat
 players/*
 level.dat_old
+level.dat_mcr
+uid.dat
 session.lock
