@@ -51,15 +51,7 @@ There's only a few rules:
 3. In a similar vein, no mods. Particularly, no SmartMoving, or anything that allows you to fit
    through 1×1 spaces; but nothing else is considered kosher, either. Play Chunk completely vanilla.
 
-----
-
-Those said, there's a few more notes I'd like to leave for the aspiring Chunker:
-
- - There *is* a way out;
- - That way out is not *geographically* hidden. You don't need to mine every single block you ever
-   manage to work out a way to access, to find some sneakily-hidden hole over in the corner of the
-   map. That's not fun, nor does it require much thought!
- - The map is designed to be played on [Hardcore][] mode. Yes, that's scary, for those of you who've
+4. The map is designed to be played on [Hardcore][] mode. Yes, that's scary, for those of you who've
    always shied away from that big bad Hardcore button; but give it a chance. As challenge-maps go,
    Chunk isn't a very long drawn-out one. If you *do* screw it up and die, it's much easier to start
    over than it is in Skyblock or SkyGrid and friends. Don't be afraid!
@@ -75,6 +67,19 @@ Those said, there's a few more notes I'd like to leave for the aspiring Chunker:
    [CaptainSparklez]: <http://youtube.com/watch?v=Hl41sTALR4c&list=SPC2F778AABFB7556D>
    [hardcore]: <http://minecraftwiki.net/wiki/Hardcore>
    [disable-hardcore]: <http://gaming.stackexchange.com/questions/44176/how-to-disable-hardcore-in-minecraft>
+
+### Notes
+Those said, there's a few more notes I'd like to leave for the aspiring Chunker:
+
+ - There *is* a way out;
+ - ... that way out is not *geographically* hidden. You don't need to mine every single block you ever
+   manage to work out a way to access, to find some sneakily-hidden hole over in the corner of the
+   map. That's not fun, nor does it require much thought!
+ - ... nor are you able to directly climb out. Don't waste half an hour of your play-time trying.
+   
+ - This is definitely a map that's fun to play with friends; but be aware that that'll stretch the
+   already-scarce resources out even more. It'll likely be difficult to avoid starving at the start
+   with more than a couple players.
 
 About
 -----
