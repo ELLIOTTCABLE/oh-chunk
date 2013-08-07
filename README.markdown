@@ -105,3 +105,16 @@ GitHub issue-tracker. The same goes for any ‘feature’ requests:
 
 **Important:** The issues are likely to include spoilers! If you want a ‘pure’ Chunking experience,
 stay away from the issue tracker. At least, until *you've* escaped. ;)
+
+Elsewhere
+---------
+
+ - As with any other Minecraft-related things, this world has a thread on
+   [MinecraftForums.com](http://minecraftforums.com); that's where most of the discussion happens:
+   
+   <http://minecraftforum.net/topic/1927005-surv-preview-oh-chunk-…-162/>
+
+ - The world itself is hosted on CurseForge; that's where I send people for downloads, because that
+   helps my download-counts (which is apparently a big deal in the Minecraft-map world):
+   
+   <http://curse.com/worlds/minecraft/oh-chunk>
