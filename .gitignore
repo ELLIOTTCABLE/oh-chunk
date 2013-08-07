@@ -3,4 +3,9 @@ players/*
 level.dat_old
 level.dat_mcr
 uid.dat
+forcedchunks.dat
 session.lock
+
+# Until I have a reason to version them ...
+DIM-1/*
+DIM1/*
