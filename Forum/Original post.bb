@@ -63,6 +63,9 @@ individual challenges:
 [size=5]Relax by your favourite fishing-hole.[/size]
 [spoiler]Build a small lake, at least 99 [~5×7×3] blocks of still-water in size, and fish out of it.[/spoiler]
 
+[size=5]Make some friends.[/size]
+[spoiler]Build a ‘village’ of at least 4 doors and 3 villagers. One of the villagers must be raised from childhood.[/spoiler]
+
 [size=5]Put up with that revolting, repetitive, squishy sound coming from your neighbours' bedroom.[/size]
 [spoiler]Arrange for slimes to spawn repeatedly continuously to your house.[/spoiler]
 

@@ -98,6 +98,11 @@ individual challenges:
  - Relax by your favourite fishing-hole.
    
    > (Build a small lake, at least 99 [~5×7×3] blocks of still-water in size, and fish out of it.)
+
+ - Make some friends.
+   
+   > (Build a ‘village’ of at least 4 doors and 3 villagers. One of the villagers must be raised
+   >  from childhood.)
    
  - Put up with that revolting, repetitive, squishy sound coming from your neighbours' bedroom.
    
