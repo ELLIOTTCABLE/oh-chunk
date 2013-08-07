@@ -33,8 +33,8 @@ all of the releases and their release notes [here][releases].
 
 Playing
 -------
-Currently, I'm not intending to set specific ‘challenges’ for Chunk players, à la Skyblock's. More
-than anything else, the primary goal of “Oh, chunk.” is to *escape* the Chunk into the Overworld.
+Your primary goal in “Oh, chunk.” is to *escape* the Chunk into the full Overworld. Specifically,
+you must reach the victory-monument at **(50, -70)**.
 
 There's only a few rules:
 
