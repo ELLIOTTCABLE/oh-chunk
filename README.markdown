@@ -68,6 +68,80 @@ There's only a few rules:
    [hardcore]: <http://minecraftwiki.net/wiki/Hardcore>
    [disable-hardcore]: <http://gaming.stackexchange.com/questions/44176/how-to-disable-hardcore-in-minecraft>
 
+### Challenges
+If escape isn't difficult enough to keep you occupied, then you may wish to complete the following
+individual challenges:
+
+ - Make your Chunk a little more homey.
+   
+   > (Build something qualifying as “a home.” Populate it with torches, a chair made out of stairs
+   >  and signs, a bed, a kitchen with a stove made [a furnace and trapdoor], and a potted flower.)
+   
+ - Bring home a puppy, to pass those lonely nights in the Chunk. Give him a pretty collar.
+   
+   > (Bring home a wolf, tame it, and dye its collar.)
+   
+ - Partake in that ‘backyard fruit and vegetable garden’ craze.
+   
+   > (Grow potatos, carrots, pumpkins, white mushrooms, and melons simultaneously within three
+   >  blocks of the outside walls of your house.)
+   
+ - Map out the Chunk.
+   
+   > (Create a map and hang it in your house, using exclusively materials you gathered and crafted.)
+   
+ - Pig out.
+   
+   > (Fill your hunger-bar from zero to ten, by eating an entire cake and an entire pumpkin-pie in
+   >  one sitting. Both must be crafted by you, from materials you gathered by hand.)
+   
+ - Relax by your favourite fishing-hole.
+   
+   > (Build a small lake, at least 99 [~5×7×3] blocks of still-water in size, and fish out of it.)
+   
+ - Put up with that revolting, repetitive, squishy sound coming from your neighbours' bedroom.
+   
+   > (Arrange for slimes to spawn repeatedly continuously to your house.)
+   
+ - Prepare for the inevitable zombie apocalypse: move your home underground.
+   
+   > (Replace all the doors and windows of your house with steel doors w/ buttons and iron bars.
+   >  Construct a cavern-roof at least four blocks *above* the top of your house, consisting of at
+   >  least one layer of smooth-stone, and at least one layer of grass-dirt. This roof must span the
+   >  entire Chunk, short only enough room for stairs or a ladder.)
+   
+ - Explore “jungle-chic.”
+   
+   > (Cover the walls of the entire Chunk with vines.)
+   
+ - Become a punk-rocker.
+   
+   > (Acquire a full set of chainmail armor.)
+   
+ - Get bored with that, and become a model-train conductor.
+   
+   > (Build a circular minecart track, with a powered rail, in a ‘basement’ room under the rest of
+   >  your house. Ride it around the track.)
+   
+ - Get bored with that. Become a bartender.
+   
+   > (Brew at least one of every possible potion.)
+   
+ - Get bored with that. Become a potent wizard instead, by making yourself a powerful wand.
+   
+   > (Enchant a single wooden axe with as manu max-leveled enchantments as are possible:
+   >  Sharpness V, Efficiency V, Fortune III, and Unbreaking III. Name it.)
+
+ - Outshine the stars.
+   
+   > (Build a beacon in the center of the Chunk. Ensure its beam can reach the sky.)
+   
+ - Celebrate your success.
+   
+   > (Craft at least one firework using each possible firework-component. Fire them off together.)
+   > (Including: at least one rocket each with diamond, glowstone dust, fire-charge, gold nugget,
+   >  feather, and mob-head.)
+
 ### Notes
 Those said, there's a few more notes I'd like to leave for the aspiring Chunker:
 
