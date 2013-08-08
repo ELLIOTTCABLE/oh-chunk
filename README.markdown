@@ -115,9 +115,10 @@ individual challenges:
    >  least one layer of smooth-stone, and at least one layer of grass-dirt. This roof must span the
    >  entire Chunk, short only enough room for stairs or a ladder.)
    
- - Explore “jungle-chic.”
+ - Play at being Tarzan.
    
-   > (Cover the walls of the entire Chunk with vines.)
+   > (Cover each wall of the Chunk with vines. Climb all the way to the top, and back, using only
+   >  these vines.)
    
  - Become a punk-rocker.
    
@@ -141,11 +142,19 @@ individual challenges:
    
    > (Build a beacon in the center of the Chunk. Ensure its beam can reach the sky.)
    
+ - Look back upon all that you have wrought.
+   
+   > Look *into* the Chunk through the inner wall.
+   
  - Celebrate your success.
    
    > (Craft at least one firework using each possible firework-component. Fire them off together.)
    > (Including: at least one rocket each with diamond, glowstone dust, fire-charge, gold nugget,
    >  feather, and mob-head.)
+
+**Important:** All challenges must be completed *before escaping the Chunk*. Travel in the Nether is
+currently allowed; travel in the Overworld is not. There's no ‘challenge’ in completing these in the
+unrestricted overworld, after all ... most of us have already done so. ;)
 
 ### Notes
 Those said, there's a few more notes I'd like to leave for the aspiring Chunker:

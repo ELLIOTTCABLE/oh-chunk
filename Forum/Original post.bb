@@ -72,8 +72,8 @@ individual challenges:
 [size=5]Prepare for the inevitable zombie apocalypse: move your home underground.[/size]
 [spoiler]Replace all the doors and windows of your house with steel doors w/ buttons and iron bars.  Construct a cavern-roof at least four blocks *above* the top of your house, consisting of at least one layer of smooth-stone, and at least one layer of grass-dirt. This roof must span the entire Chunk, short only enough room for stairs or a ladder.[/spoiler]
 
-[size=5]Explore “jungle-chic.”[/size]
-[spoiler]Cover the walls of the entire Chunk with vines.[/spoiler]
+[size=5]Play at being Tarzan.[/size]
+[spoiler]Cover each wall of the Chunk with vines. Climb all the way to the top, and back, using only these vines.[/spoiler]
    
 [size=5]Become a punk-rocker.[/size]
 [spoiler]Acquire a full set of chainmail armor.[/spoiler]
@@ -91,9 +91,14 @@ Sharpness V, Efficiency V, Fortune III, and Unbreaking III. Name it.[/spoiler]
 [size=5]Outshine the stars.[/size]
 [spoiler]Build a beacon in the center of the Chunk. Ensure its beam can reach the sky.[/spoiler]
 
+[size=5]Look back upon all that you have wrought.[/size]
+[spoiler]Look [i]into[/i] the Chunk through the inner wall.[/spoiler]
+
 [size=5]Celebrate your success.[/size]
 [spoiler]Craft at least one firework using each possible firework-component. Fire them off together.
 (Including: at least one rocket each with diamond, glowstone dust, fire-charge, gold nugget, feather, and mob-head.)[/spoiler]
+
+[size=5][b]Important:[/b] All challenges must be completed [i]before escaping the Chunk[/i]. Travel in the Nether is currently allowed; travel in the Overworld is not. There's no ‘challenge’ in completing these in the unrestricted overworld, after all ... most of us have already done so. [b];)[/b][/size]
 
 
 [center][size=6][font=Big Caslon, Book Antiqua, Palatino Linotype, Georgia, serif][b]  [anchor=notes]Notes.[/anchor]  [/b][/font][/size][/center]
