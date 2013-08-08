@@ -45,24 +45,24 @@ There's only a few rules:
    altogether too many newcomers, by the viral nature of [CaptainSparklez][].)
    
    But seriously, **warn them to play it themselves, first!**
-
+   
 2. No cheats or commands. (What's the point of a challenge-map, if you're not going to rise to the
    challenge, eh? Where's the fun in that?)
 3. In a similar vein, no mods. Particularly, no SmartMoving, or anything that allows you to fit
    through 1×1 spaces; but nothing else is considered kosher, either. Play Chunk completely vanilla.
-
+   
 4. The map is designed to be played on [Hardcore][] mode. Yes, that's scary, for those of you who've
    always shied away from that big bad Hardcore button; but give it a chance. As challenge-maps go,
    Chunk isn't a very long drawn-out one. If you *do* screw it up and die, it's much easier to start
    over than it is in Skyblock or SkyGrid and friends. Don't be afraid!
-
-> (That said, it's acceptable Chunking practice for the newcomer to occasionally *manually* copy their
->  savefolder, and restore it after dying. This retains the desired hunger-mechanics and at least
->  *some* death-penalty, without the over-extreme pain of starting over entirely from scratch.
->  I call this “Hardishcore Mode.”
->  
->  Also, it's reasonable to [disable Hardcore after you escape][disable-hardcore], if you wish to
->  continue playing your world, but aren't the type to enjoy that sort of pressure.)
+   
+   > (That said, it's acceptable Chunking practice for the newcomer to occasionally *manually* copy
+   >  their savefolder, and restore it after dying. This retains the desired hunger-mechanics and at
+   >  least *some* death-penalty, without the over-extreme pain of starting over entirely from
+   >  scratch. I call this “Hardishcore Mode.”
+   >  
+   >  Also, it's reasonable to [disable Hardcore after you escape][disable-hardcore], if you wish to
+   >  continue playing your world, but aren't the type to enjoy that sort of pressure.)
 
    [CaptainSparklez]: <http://youtube.com/watch?v=Hl41sTALR4c&list=SPC2F778AABFB7556D>
    [hardcore]: <http://minecraftwiki.net/wiki/Hardcore>
@@ -98,7 +98,7 @@ individual challenges:
  - Relax by your favourite fishing-hole.
    
    > (Build a small lake, at least 99 [~5×7×3] blocks of still-water in size, and fish out of it.)
-
+   
  - Make some friends.
    
    > (Build a ‘village’ of at least 4 doors and 3 villagers. One of the villagers must be raised
@@ -136,7 +136,7 @@ individual challenges:
    
    > (Enchant a single wooden axe with as manu max-leveled enchantments as are possible:
    >  Sharpness V, Efficiency V, Fortune III, and Unbreaking III. Name it.)
-
+   
  - Outshine the stars.
    
    > (Build a beacon in the center of the Chunk. Ensure its beam can reach the sky.)
