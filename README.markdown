@@ -62,7 +62,10 @@ There's only a few rules:
    >  scratch. I call this “Hardishcore Mode.”
    >  
    >  Also, it's reasonable to [disable Hardcore after you escape][disable-hardcore], if you wish to
-   >  continue playing your world, but aren't the type to enjoy that sort of pressure.)
+   >  continue playing your world, but aren't the type to enjoy that sort of pressure.
+   >  
+   >  Finally, for absolute pussies ;), I've begun uploading “non-hardcore” versions alongside each
+   >  release. Find them in the release-notes.)
 
    [CaptainSparklez]: <http://youtube.com/watch?v=Hl41sTALR4c&list=SPC2F778AABFB7556D>
    [hardcore]: <http://minecraftwiki.net/wiki/Hardcore>

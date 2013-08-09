@@ -39,7 +39,9 @@ But seriously, [b]warn them to play it themselves, first![/b][/left]
 
 That said, it's acceptable Chunking practice for the newcomer to occasionally *manually* copy their savefolder, and restore it after dying. This retains the desired hunger-mechanics and at least *some* death-penalty, without the over-extreme pain of starting over entirely from scratch. I call this “Hardishcore Mode.”
 
-Also, it's reasonable to [url="http://gaming.stackexchange.com/questions/44176/how-to-disable-hardcore-in-minecraft"]disable Hardcore after you escape[/url], if you wish to continue playing your world, but aren't the type to enjoy that sort of pressure.[/left][/list]
+Also, it's reasonable to [url="http://gaming.stackexchange.com/questions/44176/how-to-disable-hardcore-in-minecraft"]disable Hardcore after you escape[/url], if you wish to continue playing your world, but aren't the type to enjoy that sort of pressure.
+
+(Finally, for absolute pussies [b];)[/b], I've begun uploading “non-hardcore” versions alongside each release. Find them in the release-notes.)[/left][/list]
 
 [center][size=6][font=Big Caslon, Book Antiqua, Palatino Linotype, Georgia, serif][b]  [anchor=challenges]Challenges.[/anchor]  [/b][/font][/size][/center]
 If escape isn't difficult enough to keep you occupied, then you may wish to complete the following
